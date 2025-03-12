@@ -1,0 +1,496 @@
+Question 2 of 30
+A school debate team is to be selected from among Priya, Adi, Len, Mia, Sid, and Jai based on the following criteria:
+
+If Priya is selected, Adi is also selected.
+Only if Jai is not selected, Mia is also not selected.
+Unless Sid is selected, Len is not selected.
+Exactly one between Len and Priya must be selected.
+If the debate team size is 3 and Len is selected, then who else is part of the debate team?
+Options:
+
+Sid
+Adi
+Sid and Adi
+Jai and Mia
+Answer: Sid and Adi
+
+Question 3 of 30
+Find the odd term in the following series:
+2, 9, 20, 35, 55, 77, 104
+
+Options:
+
+20
+35
+55
+77
+Answer: 20
+(Each number follows the pattern 
+𝑛
+2
++
+1
+n 
+2
+ +1, except 20, which does not fit the sequence.)
+
+Question 4 of 30
+During a cricket match between India and New Zealand, a fair coin was tossed multiple times. Virat Kohli is calling all the tosses, and he always guesses "Head." In the first 5 calls, he lost 2 and won 3.
+
+What is the probability that he will win the sixth call?
+
+Options:
+
+1
+3/5
+1/2
+2/5
+Answer: 1/2
+(A fair coin always has a 50% probability of landing heads or tails, independent of previous tosses.)
+
+Question 7 of 30
+Eight students P, Q, R, S, T, U, V, and W are sitting around a circular table facing the center for their studies.
+
+V is not an immediate neighbor of R.
+P is third to the right of R.
+T is second to the left of R.
+R is second to the left of Q.
+U is second to the left of S.
+P is second to the left of U.
+Who is sitting third to the right of R?
+
+Options:
+
+T
+P
+W
+Q
+Answer: P
+(Using circular seating arrangement rules, P is determined to be third to the right of R.)
+
+Question 5 of 30
+Choose the correct option:
+"What will be the next character in the following series: A, 1, 2, 26, B, 2, Y, ....?"
+
+Options:
+
+22
+23
+24
+25
+26
+Answer: 23
+(The pattern follows alternating numbers and letters, where numbers follow a logical sequence.)
+
+Question 6 of 30
+Alia, Sam, Zia, Neil, and Kiara are standing in a single-line queue. There are 2 kids between Kiara and Neil. Sam is in front of Kiara. Zia is at the end of the queue, and Alia is immediately behind Neil.
+
+Who is in the middle of the queue?
+
+Options:
+
+Sam
+Neil
+Alia
+Zia
+Answer: Neil
+(Arranging the queue based on the given conditions, Neil is in the middle.)
+
+Question 8 of 30
+If A’s mother is B, C is B’s father, and D is A’s father, how is C related to D?
+
+Options:
+
+Father
+Father-in-law
+Uncle
+Cannot be determined
+Answer: Father-in-law
+(C is B’s father, meaning he is A’s maternal grandfather and hence D’s father-in-law.)
+
+Question 9 of 30
+How many of the below mirror images are correct?
+
+STRANGER : REGNARTS
+RANGE : GNAR
+GAUGE : Ǝƃɒʅ
+SMILEY : YƎILMS
+RANGEROVER : REVORGƎNAR
+Options:
+
+1
+2
+3
+4
+Answer: 3
+(The correctly mirrored words are RANGE, SMILEY, and RANGEROVER.)
+
+Question 10:
+Question: Find out the odd term in the number series which does NOT follow the pattern:
+10, ?, 32, 44, 62, 80
+Options:
+
+20
+32
+44
+62
+Answer: 20 (It does not fit the pattern).
+Question 11:
+Question: Find the missing term in the series:
+1, 3, 6, 10, 16, 22, __, 39, 51
+Options:
+
+29
+30
+31
+32
+Answer: 30.
+Question 13:
+Question: Rex, Roni, Ravi, Zeva, Sengal, and Zara are sitting in a row. Sengal and Zara are in the center. Rex and Roni are at the ends. Ravi is sitting to the left of Rex. Who is to the right of Roni?
+Options:
+
+Rex
+Ravi
+Zeva
+Zara
+Answer: Zeva.
+Question 15:
+Question: P’s mother’s mother-in-law’s only son’s son is Q. Then P is Q’s ___.
+Options:
+
+Brother
+Sister
+Nephew
+Cannot be determined
+Answer: Brother.
+ 
+ Question 19 of 30:
+Question:
+All the numbers from 1 to 98 are divided by 7. What is the average of all the remainders?
+
+Solution:
+When dividing numbers from 1 to 98 by 7, the possible remainders are 0, 1, 2, 3, 4, 5, 6.
+Since the numbers are evenly distributed, the average remainder is calculated as:
+
+0
++
+1
++
+2
++
+3
++
+4
++
+5
++
+6
+7
+=
+21
+7
+=
+3
+7
+0+1+2+3+4+5+6
+​
+ = 
+7
+21
+​
+ =3
+Answer: 3
+
+Question 16 of 30:
+Question:
+3.25 liters are drawn from a container full of milk and is then filled with water. This operation is performed two more times. The ratio of the quantity of milk now left in the container to that of water is 8:19. How much milk did the container hold originally?
+
+Solution:
+Let the initial volume of the container be x liters.
+After three replacements of 3.25 liters each, the remaining milk follows the formula:
+
+(
+1
+−
+3.25
+𝑥
+)
+3
+×
+𝑥
+=
+8
+27
+𝑥
+(1− 
+x
+3.25
+​
+ ) 
+3
+ ×x= 
+27
+8
+​
+ x
+Solving for x, we get 10.25 liters.
+
+Answer: 10.25 liters
+
+Question 18 of 30:
+Question:
+The transportation cost of sugar is 20% of its cost price. The price of sugar is increased by 10%, and the transportation cost by 20%. The consumption is reduced by x% so that the expenses remain unchanged. What is the value of x?
+
+Solution:
+Let the original cost price of sugar be ₹100.
+
+Initial transportation cost = 20% of 100 = ₹20, so total cost = ₹120.
+After a 10% price increase, new cost = ₹110.
+After a 20% increase in transportation cost, new transport = ₹24, so total new cost = ₹134.
+To maintain the same expenditure, the percentage reduction in consumption is calculated as:
+
+𝑥
+=
+(
+1
+−
+120
+134
+)
+×
+100
+=
+10.45
+%
+x=(1− 
+134
+120
+​
+ )×100=10.45%
+Answer: 10.45%
+
+Question 21 of 30:
+Question:
+A 600g fruit contains 40% juice in it. After it dries, the weight is reduced to 500g. What is the ratio of juice and pulp in the dried fruit?
+
+Solution:
+
+Juice in the original fruit = 40% of 600g = 240g
+Pulp in the original fruit = 600g - 240g = 360g
+After drying, the weight is 500g, meaning 100g of water evaporated.
+Remaining juice = 240g - 100g = 140g
+The ratio of juice to pulp in the dried fruit:
+140
+360
+=
+7
+:
+18
+360
+140
+​
+ =7:18
+Answer: 7:18
+
+Question 22 of 30:
+Question:
+A pineapple seller sold 5 pineapples at the cost price of 7. While doing so, what would be the profit percentage achieved by him?
+
+Solution:
+If the seller sold 5 pineapples at the cost price of 7, it means he sold each pineapple at 7/5 = ₹1.40.
+
+If the cost price of each pineapple was ₹1, then the selling price is ₹1.40.
+Profit per pineapple = ₹0.40
+Profit percentage =
+0.40
+1
+×
+100
+=
+40
+%
+1
+0.40
+​
+ ×100=40%
+Answer: 40%
+
+Question 24:
+Q: The average of ‘n’ consecutive natural numbers starting from 1 changed from 6 to 6.5 after the next number is added. What is this new number?
+A: The new number is 13.
+
+Question 25:
+Q: A clock gains 4 minutes after every 4 minutes. You set the correct time in the clock at 5:00 A.M. every day to deal with this issue. What will be the correct time when the time shown by the clock is 8:00 P.M.?
+A: The correct time will be 4:00 PM.
+
+Question 26:
+Q: The given table represents the number of first-class runs scored by batsmen of the Indian Cricket Team during the years 2012-2017. Which of the values is closest to the predicted value of runs scored by Rohit Sharma in the year 2018?
+A: The closest predicted value is 1100.
+
+Question 28:
+Q: What is the average of the first 90 odd numbers?
+A: The average of the first 90 odd numbers is 90.
+
+Question 26 of 30 (1000022682.png)
+Question: The given table represents the number of first-class runs scored by listeners of the Indian Cricket Team during the years 2012-2017. Which of the values is closest to the predicted value of runs scored by Rohit Sharma in the year 2019?
+Options:
+
+1000
+
+1200
+
+1100
+
+1500
+Answer: Not determinable from the given information.
+
+Question 12 of 30 (1000022686.png)
+Question: P’s mother’s mother-in-law’s only son’s son is Q. Then P is Q’s
+Options:
+
+Brother
+
+Sister
+
+Nephew
+
+Cannot be determined
+Answer: Cannot be determined
+
+Question 29 of 30 (1000022684.png)
+Question: A florist has to make bouquets using red roses and yellow roses, and the ratio of the number of red roses to the number of yellow roses is to be the same in each bouquet. If there are 15 red roses and 85 yellow roses available for the bouquets, what is the maximum number of bouquets that can be made using all the roses available?
+Options:
+
+3
+
+5
+
+8
+
+10
+
+13
+Answer: 5
+
+Question 14 of 30 (1000022688.png)
+Question: (2) P is third to the right of K. (3) T is second to the left of R. (4) R is second to the left of Q. (5) U is second to the left of S. (6) P is second to the left of U. Who is opposite to S?
+Options:
+
+T
+
+P
+
+W
+
+Q
+Answer: Q
+
+Question 24 of 30 (1000022694.png)
+Question: The average of 'n' consecutive natural numbers starting from 1, changed from 6 to 6.5, after the next number is added. What is this new number?
+Options:
+
+7
+
+10
+
+12
+
+16
+Answer: 10
+
+Question 20 of 30 (1000022692.png)
+Question: A 600g fruit contains 40% juice in it. After it dries, the weight is reduced to 500g. What is the ratio of juice and pulp of the dried fruit?
+Options:
+
+1:4
+
+1:8
+
+7:18
+
+5:11
+Answer: 5:11
+
+Question 17 of 30 (1000022690.png)
+Question: On arranging from top to bottom, 3rd from bottom is?
+Options:
+
+Graper
+
+Butterflow
+
+Finegrip
+
+Signature
+Answer: Not determinable from the given information.
+
+Question 23 of 30 (1000022696.png)
+Question: The given table represents the top five automobile companies revenue spent on R&D(Research & Development) for years 2013 - 2018.
+Options:
+
+Toyota
+
+Hero
+
+MeVcedez-Benz
+
+None of these
+Answer: Not determinable from the given information.
+
+Question 27 of 30 (1000022698.png)
+Question: The given table represents the number of first-class runs scored by batsmen of the Indian Cricket Team during the years 2012-2017.
+Options:
+
+1000
+
+1200
+
+1100
+
+1500
+Answer: Not determinable from the given information.
+
+Question 30 of 30 (1000022700.png)
+Question: A florist has to make bouquets using red roses and yellow roses, and the ratio of the number of red roses to the number of yellow roses is to be the same in each bouquet. If there are 15 red roses and 85 yellow roses available for the bouquets, what is the maximum number of bouquets that can be made using all the roses available?
+Options:
+
+3
+
+5
+
+8
+
+10
+
+13
+Answer: 5
+
+ A florist has to make bouquets using red roses and yellow roses, and the ratio of the number of red roses to the number of yellow roses is to be the same in each bouquet. If there are 15 red roses and 85 yellow roses available for the bouquets, what is the maximum number of bouquets that can be made using all the roses available?
+✅ Answer: 5 bouquets.
+Explanation: The greatest common divisor (GCD) of 15 and 85 is 5. Hence, 5 bouquets can be made while maintaining the same ratio.
+
+2. The given table represents the number of first-class runs scored by batsmen of the Indian Cricket Team during the years 2012-2017.
+✅ Answer: (b) 1200.
+
+3. The given table represents the top five automobile companies' revenue spent on R&D (Research & Development) for years 2013 - 2018.
+✅ Answer: (a) Toyota.
+
+4. The average of 'n' consecutive natural numbers starting from 1 changed from 6 to 6.5 after the next number is added. What is this new number?
+✅ Answer: (b) 10.
+Explanation: If the average increased by 0.5, the added number must be the next in sequence, which is 10.
+
+5. A 600g fruit contains 40% juice in it. After it dries, the weight is reduced to 500g. What is the ratio of juice and pulp of the dried fruit?
+✅ Answer: (c) 7:18.
+Explanation: Initial juice = 40% of 600 = 240g.
+Pulp = 600 - 240 = 360g.
+After drying, the total weight is 500g, meaning juice = 500 - 360 = 140g.
+Ratio of juice to pulp = 140:360 = 7:18.
+
+6. On arranging from top to bottom, which one is 3rd from the bottom?
+✅ Answer: (b) Butterfly.
+ 7. Who is opposite to S?
+✅ Answer: (c) W.
+
+8. Mother’s mother-in-law’s only son’s son is Q. Then P is Q's...?
+✅ Answer: (a) Brother.
+Explanation: Mother’s mother-in-law’s only son is the father of Q, making P the sibling of Q.
